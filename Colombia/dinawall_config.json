@@ -1,0 +1,39 @@
+{
+	"name":"Frederick Collection",
+	"url":"www.colombia.org",
+	"fecha":"18-05-1823",
+	"autor":"Frederick Salazar",
+	"email":"fredefass01@gmail.com",
+	"license":"creative commons",
+	"preview":"preview.jpg",
+	"timedWallpapers":[
+						{
+							"name": "wallpaper_1.jpg",
+							"timed":"18:52"
+						},
+						{
+							"name": "wallpaper_2.jpg",
+							"timed": "18:53"
+						},
+						{
+							"name": "wallpaper_3.jpg",
+							"timed": "18:54"
+						},
+						{
+							"name": "wallpaper_4.jpg",
+							"timed": "18:55"
+						},
+						{
+							"name": "wallpaper_5.jpg",
+							"timed": "18:56"
+						},
+						{
+							"name": "wallpaper_6.jpg",
+							"timed": "18:57"
+						},
+						{
+							"name": "wallpaper_7.jpeg",
+							"timed": "18:58"
+						}
+					]	
+}
