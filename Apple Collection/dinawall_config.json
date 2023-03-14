@@ -1,0 +1,89 @@
+{
+    "name": "Apple Collection",
+    "url": "apple.com",
+    "fecha": "2023-03-14",
+    "autor": "Frederick salazar",
+    "email": "fredefass01@gmail.com",
+    "license": "Creative Commons",
+    "preview": "../images/12-Light.jpg",
+    "timedWallpapers": [
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "08:00",
+            "name": "12-Light.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "09:00",
+            "name": "macos-catalina-mountains-island-evening-twilight-sunset-2880x1800-4009.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "10:00",
+            "name": "macOS_Panther.png"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "11:00",
+            "name": "Leopard(6K).jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "12:00",
+            "name": "macOS_Capitan.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "13:00",
+            "name": "macOS_Yosemite.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "14:00",
+            "name": "macOS_MojaveDay.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "15:00",
+            "name": "macOS_Sierra.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "16:00",
+            "name": "SnowLeopard(6K).jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "17:00",
+            "name": "macOS_Tiger.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "18:00",
+            "name": "macOS_Panther.png"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "19:00",
+            "name": "Mountain(6K).jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "20:00",
+            "name": "Lion(6K).jpg"
+        }
+    ]
+}
