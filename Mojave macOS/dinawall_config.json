@@ -1,0 +1,101 @@
+{
+    "name": "Mojave macOS",
+    "url": "apple.com",
+    "fecha": "2023-03-14",
+    "autor": "Frederick Salazar",
+    "email": "fsalazars@uoc.edu",
+    "license": "creative commons",
+    "preview": "../images/Mojave_1.jpg",
+    "timedWallpapers": [
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "06:00",
+            "name": "Mojave_1.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "08:00",
+            "name": "Mojave_2.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "09:00",
+            "name": "Mojave_3.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "10:00",
+            "name": "Mojave_4.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "11:00",
+            "name": "Mojave_5.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "12:00",
+            "name": "Mojave_6.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "13:00",
+            "name": "Mojave_7.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "14:00",
+            "name": "Mojave_8.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "15:00",
+            "name": "Mojave_9.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "16:00",
+            "name": "Mojave_10.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "17:00",
+            "name": "Mojave_11.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "18:00",
+            "name": "Mojave_12.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "19:00",
+            "name": "Mojave_13.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "20:00",
+            "name": "Mojave_14.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "21:00",
+            "name": "Mojave_15.jpg"
+        }
+    ]
+}

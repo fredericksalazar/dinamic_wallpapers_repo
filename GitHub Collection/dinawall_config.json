@@ -1,0 +1,41 @@
+{
+    "name": "GitHub Collection",
+    "url": "www.github.com",
+    "fecha": "2023-03-13",
+    "autor": "Frederick Salazar",
+    "email": "fsalazars@uoc.edu",
+    "license": "gpl",
+    "preview": "../images/github-wallpaper-uhd-4k-3840x2160-2.jpg",
+    "timedWallpapers": [
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "08:15",
+            "name": "github-wallpaper-uhd-4k-3840x2160-2.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "08:16",
+            "name": "wp3082254-github-wallpapers.png"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "08:17",
+            "name": "wp3082291-github-wallpapers.png"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "08:18",
+            "name": "wp3082300-github-wallpapers.png"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "08:19",
+            "name": "wp3082346-github-wallpapers.jpg"
+        }
+    ]
+}

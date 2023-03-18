@@ -9,67 +9,67 @@
 	"timedWallpapers":[
 						{
 							"name": "lakeside_01.jpg",
-							"timed":"20:26"
+							"timed":"05:00"
 						},
 						{
 							"name": "lakeside_02.jpg",
-							"timed": "20:27"
+							"timed": "06:00"
 						},
 						{
 							"name": "lakeside_03.jpg",
-							"timed": "20:28"
+							"timed": "07:00"
 						},
 						{
 							"name": "lakeside_04.jpg",
-							"timed": "20:29"
+							"timed": "08:00"
 						},
 						{
 							"name": "lakeside_05.jpg",
-							"timed": "20:30"
+							"timed": "09:00"
 						},
 						{
 							"name": "lakeside_06.jpg",
-							"timed": "20:31"
+							"timed": "10:00"
 						},
 						{
 							"name": "lakeside_07.jpg",
-							"timed": "20:32"
+							"timed": "11:00"
 						},
 						{
 							"name": "lakeside_08.jpg",
-							"timed": "20:33"
+							"timed": "12:00"
 						},
 						{
 							"name": "lakeside_09.jpg",
-							"timed": "20:34"
+							"timed": "14:00"
 						},
 						{
 							"name": "lakeside_10.jpg",
-							"timed": "15:00"
-						},
-						{
-							"name": "lakeside_11.jpg",
 							"timed": "16:00"
 						},
 						{
-							"name": "lakeside_12.jpg",
+							"name": "lakeside_11.jpg",
 							"timed": "17:00"
 						},
 						{
-							"name": "lakeside_13.jpg",
+							"name": "lakeside_12.jpg",
 							"timed": "18:00"
 						},
 						{
-							"name": "lakeside_14.jpg",
+							"name": "lakeside_13.jpg",
 							"timed": "19:00"
 						},
 						{
-							"name": "lakeside_15.jpg",
+							"name": "lakeside_14.jpg",
 							"timed": "20:00"
 						},
 						{
-							"name": "lakeside_16.jpg",
+							"name": "lakeside_15.jpg",
 							"timed": "21:00"
+						},
+						{
+							"name": "lakeside_16.jpg",
+							"timed": "22:00"
 						}
 					]	
 }

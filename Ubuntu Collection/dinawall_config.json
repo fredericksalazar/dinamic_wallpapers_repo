@@ -1,0 +1,65 @@
+{
+    "name": "Ubuntu",
+    "url": "www.ubuntu.com",
+    "fecha": "2023-03-13",
+    "autor": "Frederick salazar",
+    "email": "fsalazars@uoc.edu",
+    "license": "gpl",
+    "preview": "../images/Ubuntu_18_10.jpg",
+    "timedWallpapers": [
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "08:00",
+            "name": "Ubuntu_18_10.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "09:00",
+            "name": "Ubuntu_8_04.png"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "10:00",
+            "name": "Ubuntu_8_10.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "11:00",
+            "name": "Ubuntu_10_04.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "12:00",
+            "name": "Ubuntu_17_10.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "13:00",
+            "name": "Ubuntu_19_04.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "14:00",
+            "name": "Ubuntu_19_10.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "15:00",
+            "name": "Ubuntu_20_04.jpg"
+        },
+        {
+            "hour": 0,
+            "minute": 0,
+            "timed": "16:00",
+            "name": "Ubuntu_21-04.jpg"
+        }
+    ]
+}
